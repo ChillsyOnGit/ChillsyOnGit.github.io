@@ -1,0 +1,45 @@
+{
+    "id": "106162912",
+    "name": "FusaL",
+    "author": "curnox57",
+    "verifier": "Neuron",
+    "desc": "Inspired by Lit Fuse by KrmaL. verified by NeuronExtractor. took me two weeks. 25k obj / 10.6 obj ldm. Enjoy! (warning: 2 player mode)",
+    "percentToQualify": "100",
+    "handcam": 0,
+    "hacked": false,
+    "unrated": true,
+    "verificationVid": "https://youtu.be/JeF0ZbEFfRc",
+    "password": "",
+    "records": [
+        {
+            "percent": "100",
+            "link": "https://youtu.be/XX3OumVvqyw",
+            "user": "Cr1msoN"
+		},
+        {
+            "percent": "100",
+            "link": "https://youtu.be/n_2n7DFjH0A?t=61",
+            "user": "gBen"
+		},
+        {
+            "percent": "100",
+            "link": "https://youtu.be/CApKlqExOzQ",
+            "user": "Ketchup"
+		},
+        {
+            "percent": "100",
+            "link": "https://youtu.be/vNiMlzoGADs?t=595",
+            "user": "Motor8"
+		},
+        {
+            "percent": "100",
+            "link": "https://youtu.be/Yd_iMRprqNI",
+            "user": "Rei"
+		},
+        {
+            "percent": "100",
+            "link": "https://youtu.be/lc9mAoLqq4g",
+            "user": "Vin24Sev"
+		}
+    ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "89586130",
+  "name": "Winter Bastion",
+  "author": "NitronicBlitz",
+  "verifier": "Bordon",
+  "desc": "A Somber Stroll",
+  "percentToQualify": "100",
+  "handcam": 0,
+  "hacked": false,
+  "unrated": true,
+  "verificationVid": "https://youtu.be/CTiNrXQQ4s0",
+  "password": "Not Copyable",
+  "records": [
+        {
+            "percent": "100",
+            "link": "https://youtu.be/QJcN9HFcMms?t=71s",
+            "user": "Motor8"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/VBu6gs3SPng",
+            "user": "Rei"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/PPg8PHsBCZ4o",
+            "user": "cowfarts"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/22Az26apbNc",
+            "user": "Ketchup"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/Ouv7cmhS7lY?t=113",
+            "user": "gBen"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/IBNocH4h774",
+            "user": "GHC"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/2_mT58KLRAA",
+            "user": "ThosePixels"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/fiaKU-JTisA?t=154",
+            "user": "conski"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/hT4xtygmhYk",
+            "user": "erzor"
+        }
+    ]
+}
